@@ -1,0 +1,13 @@
+{
+  "name": "airtable-pdf-service",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/airtable_pdf_service.mjs",
+  "scripts": {
+    "start": "node src/airtable_pdf_service.mjs"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "pdf-lib": "^1.17.1"
+  }
+}
